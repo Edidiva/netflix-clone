@@ -9,7 +9,8 @@
     font-family: 'Segoe UI', sans-serif;
 }
 main{
-    background-color: black
+    background-color: black;
+    max-width: 1440px;
 }
 
 h1{
