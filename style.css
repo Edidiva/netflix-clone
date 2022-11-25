@@ -137,10 +137,10 @@ header>a{
     width: 100%;
 }
 
-.video-div{
+.video-div{ 
     position: absolute;
-    top: 106px;
-    right: 160px;
+    top: 102px;
+    right: 150px;
     z-index: 1;
     
 }
